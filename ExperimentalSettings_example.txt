@@ -1,0 +1,7 @@
+0.457e-6   	  	--- pixel size (m)
+0		--- substrate Young's modulus (Pa) (unused for velocity analysis)
+0		--- substrate Poisson's ratio (-) (unused for velocity analysis)
+0		--- substrate thickness (um) (unused for velocity analysis)
+0	 	--- monolayer Poisson's ratio (matters only slightly; Young's modulus is irrelevant) (unused for velocity analysis)
+0		--- monolayer thickness (m) (unused for velocity analysis)
+1		--- 1-strip; 2-hole/island
